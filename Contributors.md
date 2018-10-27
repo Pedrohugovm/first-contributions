@@ -1,4 +1,5 @@
 # Contributors
+- [Pedro Hugo] (https://github.com/Pedrohugovm)
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
